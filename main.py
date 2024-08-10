@@ -13,17 +13,12 @@ driver = webdriver.Firefox(service=service)
 def extract_sections():
     """ Extract section names from the left-hand section under the active tab. """
     section_elements = driver.find_elements(By.CSS_SELECTOR, 'p.name')
-    return [section.text for section in section_elements]
+    return [section.text.strip() for section in section_elements]
 
-def extract_cbic_inner_components(section_id):
-    """ Extract content from <cbic-inner-component> tags within the specified section. """
-    # Wait for the section element to be visible
-    section_element = WebDriverWait(driver, 30).until(
-        EC.visibility_of_element_located((By.ID, section_id))
-    )
-
+def extract_cbic_inner_components():
+    """ Extract content from <cbic-inner-component> tags within the currently active section. """
     # Find all <cbic-inner-component> elements within the section
-    inner_components = section_element.find_elements(By.TAG_NAME, 'cbic-inner-component')
+    inner_components = driver.find_elements(By.TAG_NAME, 'cbic-inner-component')
 
     # Extract and return the content of each inner component
     inner_components_data = [component.get_attribute('innerHTML') for component in inner_components]
@@ -51,7 +46,7 @@ try:
         print('Customs Dropdown Tabs:\n')
 
         for tab in dropdown_tabs:
-            tab_name = tab.text
+            tab_name = tab.text.strip()
             file.write(f'{tab_name}\n')
             print(f'{tab_name}\n')
 
@@ -67,18 +62,35 @@ try:
         print('Customs > Acts\n')
 
         sections = extract_sections()
-        for section in sections:
-            file.write(f' {section}\n')
-            print(f' {section}\n')
+        for section_name in sections:
+            file.write(f' {section_name}\n')
+            print(f' {section_name}\n')
 
-        # Extract and write data from <cbic-inner-component> tags to the file
-        section_id = "accordionFlushExample"
-        cbic_inner_components_data = extract_cbic_inner_components(section_id)
+            try:
+                # Locate the section element using XPath with normalize-space to handle extra spaces
+                section_element = WebDriverWait(driver, 10).until(
+                    EC.visibility_of_element_located((By.XPATH, f"//p[normalize-space(text())='{section_name}']"))
+                )
 
-        file.write('\nData from <cbic-inner-component> tags:\n')
-        for idx, data in enumerate(cbic_inner_components_data):
-            file.write(f'Component {idx + 1}:\n{data}\n\n')
-            print(f'Component {idx + 1}:\n{data}\n')
+                # Scroll the section into view using JavaScript
+                driver.execute_script("arguments[0].scrollIntoView(true);", section_element)
+                time.sleep(1)  # Ensure the scrolling is complete
+
+                # Click on the section to load its content
+                section_element.click()
+                time.sleep(3)  # Wait for the section content to load
+
+                # Extract data from <cbic-inner-component> tags
+                cbic_inner_components_data = extract_cbic_inner_components()
+
+                # Save the data from the inner components to the file
+                file.write(f'\nData from {section_name}:\n')
+                for idx, data in enumerate(cbic_inner_components_data):
+                    file.write(f'Component {idx + 1}:\n{data}\n\n')
+                    print(f'Component {idx + 1}:\n{data}\n')
+
+            except Exception as section_error:
+                print(f"Failed to process {section_name}: {section_error}")
 
 except Exception as e:
     print(f"An error occurred: {e}")
