@@ -6,9 +6,9 @@ from langchain_community.embeddings import OpenAIEmbeddings  # Still using the d
 from langchain_community.vectorstores.faiss import FAISS
 from langchain_community.document_loaders import TextLoader
 
-def process_candidate(API_key):
+def process_candidate(check):
     # Initialize OpenAI embeddings
-    embeddings = OpenAIEmbeddings(api_key=API_key)
+    embeddings = OpenAIEmbeddings(api_key=check)
 
     # Manually handle file reading with 'errors=ignore'
     try:
