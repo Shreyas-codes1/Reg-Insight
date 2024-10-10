@@ -64,4 +64,4 @@ def process_candidate(API_key):
 
 # Example usage
 if __name__ == "__main__":
-    process_candidate("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")
+    process_candidate("")
