@@ -1,0 +1,357 @@
+Forms:
+Section: Appeals (8)
+Form Number: FORM No. C.A. - 1
+Form Name: Form of Appeal to the Commissioner (Appeals) under Section 128 of Customs Act, 1962
+
+Form Number: FORM No. C.A. - 2
+Form Name: Form of Appeal to the Commissioner (Appeals) under Section 129D(4) of Customs Act, 1962
+
+Form Number: FORM No. C.A. - 3
+Form Name: Form of Appeal to the Appellate Tribunal under sub-section (1) of Section 129A of Customs Act, 1962
+
+Form Number: FORM No. C.A.- 4
+Form Name: Form of Memorandum of Cross Objections to the Appellate Tribunal under sub-section (4) of section 129A of the Customs Act, 1962
+
+Form Number: FORM No. C.A.- 5
+Form Name: Form of Appeal or Application to Appellate Tribunal under sub-section (2) section 129A or sub-section (4) of section 129D of the Customs Act, 1962
+
+Form Number: FORM No. C.A.- 6
+Form Name: Form of An Application to the High Court under Section 130A of Customs Act, 1962
+
+Form Number: FORM No. C.A. - 7
+Form Name: Form of Memorandum of Cross Objections under Section 130A(3) of Customs Act, 1962, in the matter of an Application before the High Court under Section 130A(1) of the said Act
+
+Form Number: FORM No. C.A. - 8
+Form Name: Form of Revision Application to the Central Government under Section 129DD of Customs Act, 1962
+
+Section: Bill of Entry Forms (1)
+Form Number: -
+Form Name: EDI Declaration Form for Import
+
+Section: Bonds (3)
+Form Number: Indemnity Bond
+Form Name: Indemnity Bond for Simplified Brand Rate Fixation Scheme
+
+Form Number: Surety Bond
+Form Name: Surety Bond for a CHA Licence
+
+Form Number: Bond
+Form Name: Bond for CHA Licence
+
+Section: Customs Broker (9)
+Form Number: FORM A
+Form Name: Application Form for Grant of Customs Broker’s License under section 146 of the Customs Act, 1962
+
+Form Number: FORM B1
+Form Name: License for Customs Broker (L-I)
+
+Form Number: FORM B2
+Form Name: License for Customs Broker (L-O)
+
+Form Number: FORM C
+Form Name: Intimation by Customs Broker to work at another Customs Station
+
+Form Number: FORM D
+Form Name: BOND No……….of 20....
+
+Form Number: FORM E
+Form Name: SURETY BOND No. ………of 20....
+
+Form Number: FORM F
+Form Name: Identity Card
+
+Form Number: FORM G
+Form Name: Identity Card
+
+Form Number: FORM H
+Form Name: IDENTITY-CUM-AUTHORITY CARD
+
+Section: Drawback (13)
+Form Number: Annexure II
+Form Name: Form for claim of drawback under Rule 13
+
+Form Number: -
+Form Name: Application for supplementary claim for drawback under Rule 15
+
+Form Number: Statement - DBK-I
+Form Name: Description of the Export Product _______________ Bill of Materials *issued for manufacture of (No. of Units @ of the Export product)
+
+Form Number: Statement - DBK-II
+Form Name: Direct Imports of materials/components made by the manufacturer and foreign materials obtained locally by the manufacturer during the period commencing three months prior to the date of shipment/first shipment upto the date of application, for manufactre of __________________(Name of export product).
+
+Form Number: Statement - DBK-IIA
+Form Name: Details of procurements relating to stock of imported materials as om commencement * *the date three months prior to the date of shipment/first shipment) based in FIPO principle, required for the manufacture _________________________(Name of export product.)
+
+Form Number: Statement - DBK-III
+Form Name: Materials/Components of Indian Origin obtained by the manufacturer during the period commencing three months prior to the date of shipment/first shipment upto the date od appplication for manufacture of _________________(Name of export product).
+
+Form Number: Statement - DBK-IIIA
+Form Name: Details of procurements relating to stock of indegenous materials as om commencement to (the date three months prior to the date of shipment/first shipment) based in FIPO principle
+
+Form Number: -
+Form Name: Indemnity Bond
+
+Form Number: Annexure - I
+Form Name: FORM FOR CLAIM OF DRAWBACK UNDER RULE 12
+
+Form Number: Annexure - II
+Form Name: APPLICATION FOR SUPPLEMTARY CLAIM FOR DRAWBACK UNDER RULE 16
+
+Form Number: -
+Form Name: Form for claim of drawback under Section 74 of Customs Act, 1962 on goods exported by post
+
+Form Number: -
+Form Name: Proforma for claiming drawback on re-export of duty paid goods under Section 74 of Customs Act, 1962
+
+Form Number: -
+Form Name: Form for claim of drawback under Rule 11
+
+Section: Electronic Declaration (23)
+Form Number: FORM I
+Form Name: Bill of Entry For Home Consumption
+
+Form Number: FORM II
+Form Name: Bill of Entry For Warehousing
+
+Form Number: FORM III
+Form Name: Bill of Entry For Ex-Bond Clearance
+
+Form Number: -
+Form Name: FORM-K
+
+Form Number: -
+Form Name: FORM-A1
+
+Form Number: FORM ECL-1
+Form Name: Electronic Cash Ledger
+
+Form Number: FORM ECL-2
+Form Name: Challan for deposit under section 51A of the Customs Act, 1962
+
+Form Number: FORM ECL-3
+Form Name: Challan for Payment of any sum under the Customs Act, 1962
+
+Form Number: FORM ECL 4
+Form Name: Electronic Duty Payment Ledger (Cash)
+
+Form Number: FORM-ECL-5
+Form Name: Application for Refund of Deposit under Electronic Cash Ledger
+
+Form Number: FORM A
+Form Name: EXPRESS CARGO MANIFEST - IMPORT (ECM-I)
+
+Form Number: FORM B
+Form Name: COURIER BILL OF ENTRY – XI (CBE-XI) FOR DOCUMENTS
+
+Form Number: FORM C
+Form Name: Courier Bill of Entry – XII (CBE-XII) for Samples and Gifts
+
+Form Number: FORM D
+Form Name: Courier Bill of Entry - XIII (CBE-XIII) for Non-Documents
+
+Form Number: FORM E
+Form Name: Courier Bill of Entry – XIV (CBE-XIV) for Dutiable Goods
+
+Form Number: FORM F
+Form Name: COURIER EXPORT MANIFEST (CEM-I)
+
+Form Number: FORM G
+Form Name: COURIER SHIPPING BILL - III (CSB - III) FOR DOCUMENTS
+
+Form Number: FORM H
+Form Name: Courier Shipping Bill – IV (CSB - IV) for Goods
+
+Form Number: FORM HA
+Form Name: Courier Shipping Bill –V(CSB-V)
+
+Form Number: FORM I
+Form Name: Application Form for registration / renewal of authorised courier
+
+Form Number: FORM J
+Form Name: FORM FOR INTIMATION OF AUTHORISED COURIER
+
+Form Number: FORM PBE-III
+Form Name: For export of goods through E-Commerce)
+
+Form Number: FORM PBE-IV
+Form Name: For export of goods other than E-Commerce
+
+Section: Furnishing of Information (1)
+Form Number: Annexure-I
+Form Name: (i) For Outward remitances / (ii) For Inward remitances
+
+Section: Passenger or Baggage (2)
+Form Number: -
+Form Name: Customs Baggage Declaration Form-I
+
+Form Number: Annexure-I
+Form Name: Application Form for Registration
+
+Section: Refunds (1)
+Form Number: Application
+Form Name: Application for refund of duty/ interest
+
+Section: Settlement Commission (2)
+Form Number: Form SC (C)-1
+Form Name: Form of application for settlement of a case under section 127B
+
+Form Number: Form SC (C)-2
+Form Name: Form of application for Settlement of a case of person under sub-section(5) of section 127B of the Act.
+
+Section: Shipping Bill Forms (10)
+Form Number: Annexure - 2
+Form Name: ATA Carnet Form of Bill of Entry or the Shipping Bill
+
+Form Number: -
+Form Name: Shipping Bill for export of goods under claim for duty drawback
+
+Form Number: -
+Form Name: Shipping Bill for export of dutiable goods
+
+Form Number: -
+Form Name: Shipping Bill for export of duty free goods
+
+Form Number: -
+Form Name: Form of Bill of Entry to be filed by a passenger intending to take delivery of gold or silver from a customs bonded warehouse in India
+
+Form Number: -
+Form Name: Bill of Export for Duty Free Goods Ex-Bond
+
+Form Number: -
+Form Name: Bill of Export for Duty Free Goods
+
+Form Number: -
+Form Name: Bill of Export for Dutiable Goods
+
+Form Number: -
+Form Name: Bill of Export of Goods under Claim for Duty Drawback
+
+Form Number: -
+Form Name: Shipping Bill for Export of Duty Free Goods Ex-Bond
+
+Section: Transhipment (22)
+Form Number: Form – I
+Form Name: Application for Registration under Regulation 3 (1) of Sea Cargo Manifest and Transhipment Regulations, 2018
+
+Form Number: Form – II
+Form Name: Application for Entry Inwards under Regulation 4 (2) (a) of Sea Cargo Manifest and Transhipment Regulations, 2018
+
+Form Number: Form – III
+Form Name: General Declaration under Regulations 4 (2) (b) and 5 (2) (a) of Sea Cargo Manifest and Transhipment Regulations, 2018
+
+Form Number: Form - IV
+Form Name: Vessel's Stores List under Regulations 4 (2)(c) and 5 (2) (b) of Sea Cargo Manifest and Transhipment Regulations, 2018
+
+Form Number: Form – V
+Form Name: Crew’s Effects Declaration under Regulations 4 (2) (d) and 5 (2) (c) of Sea Cargo Manifest and Transhipment Regulations, 2018
+
+Form Number: Form – VIA
+Form Name: Form under Regulation 4 (2) (e) (i) of Sea Cargo Manifest and Transhipment Regulations, 2018
+
+Form Number: Form - VIB
+Form Name: Form under Regulation 4 (2) (e) (ii) of Sea Cargo Manifest and Transhipment Regulations, 2018
+
+Form Number: Form – VIIA
+Form Name: Form under Regulation 5 (2) (d) (i) of Sea Cargo Manifest and Transhipment Regulations, 2018
+
+Form Number: Form - VIIB
+Form Name: Form under Regulation 5 (2) (d) (ii) of Sea Cargo Manifest and Transhipment Regulations, 2018
+
+Form Number: Form - VIII
+Form Name: Form under Regulation 7 of Sea Cargo Manifest and Transhipment Regulations, 2018
+
+Form Number: Form - VIIIA
+Form Name: Form under Regulation 7 of Sea Cargo Manifest and Transhipment Regulations, 2018
+
+Form Number: Form - IX A
+Form Name: Bond of Transhipment under Regulation 9 (1) (c) of Sea Cargo Manifest and Transhipment Regulations, 2018
+
+Form Number: Form - IX B
+Form Name: Continuity Bond for Transhipment under Regulation 9 (1) (c) of Sea Cargo Manifest and Transhipment Regulations, 2018
+
+Form Number: Form - IX C
+Form Name: Surety Bond for Transhipment under Regulation 9 (1) (c) of Sea Cargo Manifest and Transhipment Regulations, 2018
+
+Form Number: Form - IX D
+Form Name: Continuity Surety Bond for Transhipment under Regulation 9 (1) (c) of Sea Cargo Manifest and Transhipment Regulations, 2018
+
+Form Number: Form - X A
+Form Name: Bond for transit through foreign territory under Regulation 9 (2) of Sea Cargo Manifest and Transhipment Regulations, 2018
+
+Form Number: Form - X B
+Form Name: Continuity Bond for transit through foreign territory under Regulation 9 (2) of Sea Cargo Manifest and Transhipment Regulations, 2018
+
+Form Number: Form - X C
+Form Name: Surety Bond for transit through foreign territory under Regulation 9 (2) of Sea Cargo Manifest and Transhipment Regulations, 2018
+
+Form Number: Form - X D
+Form Name: Continuity Surety Bond for transit through foreign territory under Regulation 9 (2) of Sea Cargo Manifest and Transhipment Regulations, 2018
+
+Form Number: Form – XI
+Form Name: Form under Regulation 3 (1A) of Sea Cargo Manifest and Transhipment Regulations, 2018
+
+Form Number: Form - XII
+Form Name: Form under Regulation 6 of Sea Cargo Manifest and Transhipment Regulations, 2018
+
+Form Number: Form
+Form Name: Declaration of transshipment under Regulation 4 under Transhipment of Cargo to Nepal under Electronic Cargo Tracking System Regulations, 2019
+
+Section: Warehousing (4)
+Form Number: Application
+Form Name: Form of Application for permission to remove goods from one Warehouse to another in the same Port or to another Warehousing Port to be Warehoused there
+
+Form Number: -
+Form Name: Warehouse of Goods (Removal) Form
+
+Form Number: Form
+Form Name: Form (for section 58A licensed warehouse) under Manufacture and Other Operations in Special Warehouse Regulations, 2020
+
+Form Number: Form
+Form Name: Form under Regulation 2 (1)(iv) of Manufacture and Other Operations in Warehouse (no. 2) Amendment Regulations, 2020
+
+Section: Others (15)
+Form Number: Form - 'A'
+Form Name: Application Form for Grant of a temporary Customs House Agent's License
+
+Form Number: Form - 'C'
+Form Name: Application Form for Grant of a permanent Customs House Agents' License
+
+Form Number: FORM
+Form Name: Form for transfer of goods from a warehouse (in terms of section 67 or section 69 of the Customs Act, 1962)
+
+Form Number: -
+Form Name: Form I
+
+Form Number: Form IGCR-1
+Form Name: Prior information to be provided by the importer
+
+Form Number: Form IGCR-2
+Form Name: Intimation regarding non-receipt of goods imported to be provided by the Importer
+
+Form Number: Form IGCR-3
+Form Name: MONTHLY STATEMENT
+
+Form Number: Form-I
+Form Name: REPORT FOR OBTANING APPROVAL OF THE COMPETENT AUTHORITY FOR UNDERTAKING CONTROLLED DELIVERY UNDER THE CONTROLLED DELIVERY (CUSTOM) REGULATION, 2022
+
+Form Number: Form-II
+Form Name: AUTHORISATION FOR CONTROLLED DELIVERY UNDER SECTION 109AOF THE CUSTOMS ACT, l962
+
+Form Number: FORM CAAR-1
+Form Name: Application form for Advance Ruling
+
+Form Number: FORM CAAR-2
+Form Name: Appeal to the Appellate Authority for Advance Rulings
+
+Form Number: FORM CAAR-3
+Form Name: Appeal to the Appellate Authority for Advance Ruling
+
+Form Number: Form IGCR- 3A
+Form Name: Details
+
+Form Number: Form PBE-I
+Form Name: For export of goods through E-Commerce)
+
+Form Number: Form PBE-II
+Form Name: For export of goods other than E-Commerce
+
