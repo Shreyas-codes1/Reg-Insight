@@ -20,9 +20,10 @@ def cbic_chat(prompt, API_key):
     vectorstore = FAISS.load_local(vector_store_path, embeddings, allow_dangerous_deserialization=True)
 
     # Create a retriever and LLM
-    retriever = vectorstore.as_retriever(search_type="mmr", search_kwargs={"k": 8})
+    retriever = vectorstore.as_retriever(search_type="mmr", search_kwargs={"k": 12})
     llm = ChatOpenAI(
         model="gpt-3.5-turbo",
+        #model="gpt-4o",
         api_key=openai.api_key
     )
 
@@ -30,7 +31,7 @@ def cbic_chat(prompt, API_key):
     qa = RetrievalQA.from_chain_type(llm=llm, retriever=retriever)
 
     # Ask the question
-    response = qa(prompt)
+    response = qa(prompt + ' Strictly answer based on the context. You must provide references')
     answer = response.get('result', '')  # Parse the result
     return answer
 
